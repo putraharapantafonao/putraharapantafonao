@@ -9,8 +9,8 @@
 </div>
 
 <!--Header Name dengan Animasi Kacamata Hitam-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Halo semuanya! Saya Putra Harapan Tafonao 👋 
-*Web & Mobile Engineering Student @ Universitas Malikussaleh (UNIMAL) | IT Researcher*
+# Halo semuanya! Saya Putra Harapan Tafonao 👋 
+*Web & Mobile Engineering | IT Researcher*
 <br />
 
 <!--Start Intro Tentang Saya-->               
